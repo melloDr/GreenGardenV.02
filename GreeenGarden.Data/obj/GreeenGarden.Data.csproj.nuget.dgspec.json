@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\CodeBE\\GreenGardenV.02\\GreeenGarden.Data\\GreeenGarden.Data.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\CodeBE\\GreenGardenV.02\\GreenGardenV.02\\GreeenGarden.Data\\GreeenGarden.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\CodeBE\\GreenGardenV.02\\GreeenGarden.Data\\GreeenGarden.Data.csproj": {
+    "C:\\Users\\Admin\\Desktop\\CodeBE\\GreenGardenV.02\\GreenGardenV.02\\GreeenGarden.Data\\GreeenGarden.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\CodeBE\\GreenGardenV.02\\GreeenGarden.Data\\GreeenGarden.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\CodeBE\\GreenGardenV.02\\GreenGardenV.02\\GreeenGarden.Data\\GreeenGarden.Data.csproj",
         "projectName": "GreeenGarden.Data",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\CodeBE\\GreenGardenV.02\\GreeenGarden.Data\\GreeenGarden.Data.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\CodeBE\\GreenGardenV.02\\GreenGardenV.02\\GreeenGarden.Data\\GreeenGarden.Data.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\CodeBE\\GreenGardenV.02\\GreeenGarden.Data\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\CodeBE\\GreenGardenV.02\\GreenGardenV.02\\GreeenGarden.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
